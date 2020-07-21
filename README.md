@@ -14,3 +14,5 @@
 <li>&nbsp;people over the age of 55</li>
 <li>family history of bladder cancer</li>
 </ul>
+
+<p><strong> Causes: </strong></p><p>Rather than grow and divide in an orderly way, cancer cells develop mutations that cause them to grow out of control and not die. These abnormal cells form a tumor. Doctors aren&rsquo;t sure. But they do know that several things increase your risk for the disease.</p><ul><li><a href="https://www.medicinenet.com/smoking_quiz/quiz.htm"> Cigarette smoking </a> causes about 50% of all bladder cancers</li><li>&nbsp;exposure to chemicals</li><li>chronic bladder infections</li><li>Parasitic infections</li><li>low fluid consumption</li><li>Past radiation exposure - <a href="https://www.healthline.com/health/chemotherapy"> chemotherapy </a> or radiation therapy</li><li>&nbsp;people over the age of 55</li><li>family history of bladder cancer</li></ul>
